@@ -1,0 +1,9 @@
+{
+  "devices": {
+    "light": true,
+    "fan": true,
+    "ac": false,
+    "door": false,
+    "heater": false
+  }
+}
